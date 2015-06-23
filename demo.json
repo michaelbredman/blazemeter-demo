@@ -2,7 +2,7 @@
   "test": {
     "name": "Demotour Jenkins JSON",
     "location": "Redman Load Generator",
-    "duration": 10, 
+    "duration": 5, 
     "rps": 30,
     "rps_step_up": {
       "start_rps": 1,
