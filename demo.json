@@ -5,8 +5,8 @@
     "duration": 3, 
     "rps": 30,
     "rps_step_up": {
-      "start_rps": 1,
-      "end_rps": 10,
+      "start_rps": 10,
+      "end_rps": 100,
       "step_increment": 1,
       "step_duration": 1
     },
@@ -26,7 +26,7 @@
     },
     "urls": [
       {
-        "url": "http://demotour.blazemeter.com/",
+        "url": "http://demotour.blazemeter.com",
         "headers": {
           "Host": "demotour.blazemeter.com",
           "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36"
