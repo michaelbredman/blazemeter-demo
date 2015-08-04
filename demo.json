@@ -3,7 +3,7 @@
     "name": "Demotour Jenkins JSON",
     "location": "us-east-1",
     "duration": 3, 
-    "rps": 30,
+    "rps": 60,
     "rps_step_up": {
       "start_rps": 10,
       "end_rps": 100,
